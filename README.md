@@ -7,7 +7,7 @@ Esse tratamento de erro básico serve para cadastros em geral:
 o isalpha(), o programa dará um erro, pois não entenderá o espaço como letra.
 Para isso é preciso utilizar também o método replace(), conforme demonstrado neste código.
 
--> Com esses tratamentos derro, o programa não será interrompido e só aceitará seguir adiante caso o usuário digite
+-> Com esses tratamentos de erro, o programa não será interrompido e só aceitará seguir adiante caso o usuário digite
 apenas letras.
 
 
